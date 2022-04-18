@@ -2,45 +2,48 @@ This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: proj4.aux
 The style file: csplainnat.bst
-Database file #1: literatura.bib
+Database file #1: proj4.bib
+Warning--to sort, need author or key in What_is_artificial_intelligence
+Warning--to sort, need author or key in Future
 You've used 10 entries,
             2932 wiz_defined-function locations,
-            703 strings with 7341 characters,
-and the built_in function-call counts, 3906 in all, are:
-= -- 366
-> -- 202
-< -- 7
-+ -- 70
-- -- 60
-* -- 303
-:= -- 625
-add.period$ -- 39
+            699 strings with 7254 characters,
+and the built_in function-call counts, 3829 in all, are:
+= -- 362
+> -- 191
+< -- 6
++ -- 67
+- -- 57
+* -- 302
+:= -- 594
+add.period$ -- 37
 call.type$ -- 10
-change.case$ -- 40
+change.case$ -- 38
 chr.to.int$ -- 10
-cite$ -- 20
-duplicate$ -- 187
-empty$ -- 317
-format.name$ -- 81
-if$ -- 813
+cite$ -- 24
+duplicate$ -- 185
+empty$ -- 319
+format.name$ -- 76
+if$ -- 805
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 6
-newline$ -- 63
-num.names$ -- 43
-pop$ -- 117
+newline$ -- 61
+num.names$ -- 38
+pop$ -- 122
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 36
 quote$ -- 0
-skip$ -- 133
+skip$ -- 131
 stack$ -- 0
-substring$ -- 58
-swap$ -- 22
+substring$ -- 60
+swap$ -- 21
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 98
-warning$ -- 0
-while$ -- 28
+warning$ -- 2
+while$ -- 25
 width$ -- 0
-write$ -- 146
+write$ -- 142
+(There were 2 warnings)
