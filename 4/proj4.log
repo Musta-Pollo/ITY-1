@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.24)  18 APR 2022 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.24)  18 APR 2022 21:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -131,52 +131,42 @@ LaTeX Font Info:    ... okay on input line 12.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] (./proj4.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 11.
+(Font)              <10.95> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--12
-[]\OT1/ptm/m/n/10.95 Benefits and risks of ar-ti-fi-cial in-tel-li-gence, Nov 2021.  Do-stupn[]e z:
- []
-
-
-Overfull \hbox (254.32533pt too wide) in paragraph at lines 14--18
+Overfull \hbox (254.32533pt too wide) in paragraph at lines 9--14
 []$\OT1/ptm/m/n/10.95 . 
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 20--24
-[]\OT1/ptm/m/sc/10.95 Maddox\OT1/ptm/m/n/10.95 , T.  Re-search: 34 per-cent afraid of Ar-ti-fi-cial In-tel-li-gence, Sep 2015.  Do-stupn[]e z:
- []
-
-
-Overfull \hbox (24.37782pt too wide) in paragraph at lines 20--24
+Overfull \hbox (24.37782pt too wide) in paragraph at lines 23--28
 []$\OT1/ptm/m/n/10.95 . 
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 27--34
+Underfull \hbox (badness 6477) in paragraph at lines 31--38
 []\OT1/ptm/m/sc/10.95 McDermott\OT1/ptm/m/n/10.95 , J. et al. (Ed.).  \OT1/ptm/m/it/10.95 20th Eu-ro-pean Con-fe-rence on Ge-ne-tic Pro-gra-m-ming\OT1/ptm/m/n/10.95 , 10196
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 27--34
+Underfull \hbox (badness 3989) in paragraph at lines 31--38
 \OT1/ptm/m/n/10.95 / \OT1/ptm/m/it/10.95 Lecture No-tes in Com-pu-ter Science\OT1/ptm/m/n/10.95 , 2017. Sprin-ger In-ter-nati-o-nal Pu-b-lishing.  Do-stupn[]e z:
  []
 
 ) [2] (./proj4.aux) ) 
 Here is how much of TeX's memory you used:
- 2564 strings out of 478276
- 41461 string characters out of 5853013
- 364432 words of memory out of 5000000
- 20788 multiletter control sequences out of 15000+600000
+ 2563 strings out of 478276
+ 41453 string characters out of 5853013
+ 363446 words of memory out of 5000000
+ 20787 multiletter control sequences out of 15000+600000
  488573 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,250b,180s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,5n,62p,250b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proj4.pdf (3 pages, 64733 bytes).
+Output written on proj4.pdf (3 pages, 66646 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream

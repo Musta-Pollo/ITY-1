@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex proj4"] 1650294931 "proj4.aux" "proj4.bbl" "proj4" 1650294931
+["bibtex proj4"] 1650309335 "proj4.aux" "proj4.bbl" "proj4" 1650309830
   "./csplainnat.bst" 1650294625 29571 e871e9ae9b749a170253486bda1acdc0 ""
-  "proj4.aux" 1650294931 1220 bbabf35f097682b0c6a4faffa82baf89 "pdflatex"
-  "proj4.bib" 1650294930 8657 d092832b9227fa9fd71bc8e2bd9eeb39 ""
+  "proj4.aux" 1650309830 1234 e747d3b570940e63a4d28a756b782424 "pdflatex"
+  "proj4.bib" 1650309334 8656 4e027f1928adca5c82c9ec0d6bbdb0cc ""
   (generated)
   "proj4.bbl"
   "proj4.blg"
-["pdflatex"] 1650294931 "/home/musta-pollo/VUT/ITY/ITY/4/ITY-1/4/proj4.tex" "proj4.pdf" "proj4" 1650294931
-  "/home/musta-pollo/VUT/ITY/ITY/4/ITY-1/4/proj4.tex" 1650294831 3201 5b3c2261a5e6d1869cd4665d264110e9 ""
+["pdflatex"] 1650309830 "/home/musta-pollo/VUT/ITY/ITY/4/ITY-1/4/proj4.tex" "proj4.pdf" "proj4" 1650309830
+  "/home/musta-pollo/VUT/ITY/ITY/4/ITY-1/4/proj4.tex" 1650309829 3206 33f92d6fadfcee75644b435939c40635 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1647844622 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1647844622 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1647844622 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -51,9 +51,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1647844622 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1648129039 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1648129031 2924505 8a2891c9f5a5933c5eb7e7ea5b522d4f ""
-  "proj4.aux" 1650294931 1220 bbabf35f097682b0c6a4faffa82baf89 "pdflatex"
-  "proj4.bbl" 1650294931 3034 bae2b1a604fba14a95213405a6195747 "bibtex proj4"
-  "proj4.tex" 1650294831 3201 5b3c2261a5e6d1869cd4665d264110e9 ""
+  "proj4.aux" 1650309830 1234 e747d3b570940e63a4d28a756b782424 "pdflatex"
+  "proj4.bbl" 1650309335 3183 5f4db1f61b4b17eacb41eaed463c4467 "bibtex proj4"
+  "proj4.tex" 1650309829 3206 33f92d6fadfcee75644b435939c40635 ""
   (generated)
   "proj4.aux"
   "proj4.log"

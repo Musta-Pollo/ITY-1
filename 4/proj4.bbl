@@ -5,20 +5,24 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Fut(2021)]{Future}
-Benefits and risks of artificial intelligence, Nov 2021.
-\newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/}>}$.
-
-\bibitem[Wha(2021)]{What_is_artificial_intelligence}
-What is artificial intelligence and how is it used?: News: European parliament,
-  Mar 2021.
+\bibitem[Europarl(2021)]{What_is_artificial_intelligence}
+{\sc Europarl}.
+\newblock \emph{What is artificial intelligence and how is it used?} [online].
+  2021. [cit.~18.\,4.\,2022].
 \newblock Dostupn{\'{e}}~z:
   $\texttt{<{https://www.europarl.europa.eu/news/en/headlines/society/20200827STO85804/what-is-artificial-intelligence-and-how-is-it-used}>}$.
 
+\bibitem[futureoflife(2021)]{Future}
+{\sc futureoflife}.
+\newblock \emph{Benefits and risks of artificial intelligence} [online]. 2021.
+  [cit.~18.\,4.\,2022].
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/}>}$.
+
 \bibitem[Maddox(2015)]{Maddox_2015}
 {\sc Maddox}, T.
-\newblock Research: 34 percent afraid of Artificial Intelligence, Sep 2015.
+\newblock \emph{Research: 34 percent afraid of Artificial Intelligence}
+  [online]. 2015. [cit.~18.\,4.\,2022].
 \newblock Dostupn{\'{e}}~z:
   $\texttt{<{https://www.zdnet.com/article/research-34-precent-afraid-of-artificial-intelligence/}>}$.
 
@@ -48,7 +52,7 @@ What is artificial intelligence and how is it used?: News: European parliament,
 \bibitem[Ragas(2017)]{RagasLudek2017Ui}
 {\sc Ragas}, L.
 \newblock Umělá inteligence.
-\newblock Bakalářská práce, Vysoké učení technické v Brně. Fakulta
+\newblock Bakalářské práce, Vysoké učení technické v Brně. Fakulta
   elektrotechniky a komunikačních technologií, 2017.
 
 \bibitem[Robson et~al.(2022)Robson, Kelsey, Goel, Nasir, Robson, Garn, Lisle,
@@ -69,7 +73,7 @@ What is artificial intelligence and how is it used?: News: European parliament,
 \bibitem[Černohub(2010)]{CernohubJan2010Uipd}
 {\sc Černohub}, J.
 \newblock Umělá inteligence pro deskovou hru Carcassonne.
-\newblock Bakalářská práce, Vysoké učení technické v Brně. Fakulta
+\newblock Bakalářské práce, Vysoké učení technické v Brně. Fakulta
   informačních technologií, 2010.
 
 \end{thebibliography}

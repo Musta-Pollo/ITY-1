@@ -3,47 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: proj4.aux
 The style file: csplainnat.bst
 Database file #1: proj4.bib
-Warning--to sort, need author or key in What_is_artificial_intelligence
-Warning--to sort, need author or key in Future
 You've used 10 entries,
             2932 wiz_defined-function locations,
-            699 strings with 7254 characters,
-and the built_in function-call counts, 3829 in all, are:
-= -- 362
-> -- 191
-< -- 6
-+ -- 67
-- -- 57
-* -- 302
-:= -- 594
-add.period$ -- 37
+            698 strings with 7171 characters,
+and the built_in function-call counts, 3980 in all, are:
+= -- 402
+> -- 213
+< -- 8
++ -- 73
+- -- 63
+* -- 318
+:= -- 671
+add.period$ -- 45
 call.type$ -- 10
-change.case$ -- 38
+change.case$ -- 40
 chr.to.int$ -- 10
-cite$ -- 24
-duplicate$ -- 185
-empty$ -- 319
-format.name$ -- 76
-if$ -- 805
+cite$ -- 20
+duplicate$ -- 186
+empty$ -- 273
+format.name$ -- 86
+if$ -- 817
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 6
-newline$ -- 61
-num.names$ -- 38
-pop$ -- 122
+missing$ -- 15
+newline$ -- 63
+num.names$ -- 48
+pop$ -- 93
 preamble$ -- 1
-purify$ -- 36
+purify$ -- 38
 quote$ -- 0
-skip$ -- 131
+skip$ -- 128
 stack$ -- 0
-substring$ -- 60
-swap$ -- 21
+substring$ -- 58
+swap$ -- 20
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 98
-warning$ -- 2
-while$ -- 25
+warning$ -- 0
+while$ -- 31
 width$ -- 0
-write$ -- 142
-(There were 2 warnings)
+write$ -- 149
