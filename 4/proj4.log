@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=latex 2022.3.24)  6 APR 2022 15:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.24)  18 APR 2022 16:43
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**proj4.tex
-(./proj4.tex
+**/home/musta-pollo/VUT/ITY/ITY/4/ITY-1/4/proj4.tex
+(/home/musta-pollo/VUT/ITY/ITY/4/ITY-1/4/proj4.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-02-24> (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -22,39 +22,31 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/02/26 3.73 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language87
-
-(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
-
-(/usr/share/texmf-dist/tex/generic/babel-czech/czech.ldf
+ (/usr/share/texmf-dist/tex/generic/babel-czech/czech.ldf
 Language: czech 2008/07/06 v3.1a Czech support from the babel system
 Package babel Info: Making " an active character on input line 172.
 \cs@wordlen=\count195
 Package babel Info: Making - an active character on input line 226.
-))
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-)
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
-)
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -69,29 +61,20 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen146
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks19
-)
-(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+) (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count199
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-2.
-
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 12.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2022-02-07 L3 backend support: dvips
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box50
-\g__pdf_backend_object_int=\count266
-\l__pdf_backend_content_box=\box51
-\l__pdf_backend_model_box=\box52
-\g__pdf_backend_annotation_int=\count267
-\g__pdf_backend_link_int=\count268
-\g__pdf_backend_link_sf_int=\count269
 ) (./proj4.aux)
 \openout1 = `proj4.aux'.
 
@@ -111,9 +94,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -146,32 +129,47 @@ LaTeX Font Info:    ... okay on input line 12.
 
 [1
 
-] [1] (./proj4.bbl
-
-LaTeX Font Warning: Font shape `OT1/ptm/m/scit' undefined
-(Font)              using `OT1/ptm/m/sc' instead on input line 11.
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] (./proj4.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 12.
 
-Underfull \hbox (badness 1147) in paragraph at lines 56--61
-[]\OT1/ptm/m/sc/10.95 Kyrnin\OT1/ptm/m/n/10.95 , J.  \OT1/ptm/m/it/10.95 Web Ty
--po-gra-phy Mi-s-ta-kes \OT1/ptm/m/n/10.95 [on-line]. About, Inc, 2016. [cit. 1
-3.4.2016].  Do-stupn[]e z:
+Underfull \hbox (badness 3354) in paragraph at lines 9--13
+[]\OT1/ptm/m/sc/10.95 Maddox\OT1/ptm/m/n/10.95 , T.  Re-search: 34 per-cent afraid of Ar-ti-fi-cial In-tel-li-gence, Sep 2015.  Do-stupn[]e z:
+ []
+
+
+Overfull \hbox (24.37782pt too wide) in paragraph at lines 9--13
+[]$\OT1/ptm/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 16--23
+[]\OT1/ptm/m/sc/10.95 McDermott\OT1/ptm/m/n/10.95 , J. et al. (Ed.).  \OT1/ptm/m/it/10.95 20th Eu-ro-pean Con-fe-rence on Ge-ne-tic Pro-gra-m-ming\OT1/ptm/m/n/10.95 , 10196
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 16--23
+\OT1/ptm/m/n/10.95 / \OT1/ptm/m/it/10.95 Lecture No-tes in Com-pu-ter Science\OT1/ptm/m/n/10.95 , 2017. Sprin-ger In-ter-nati-o-nal Pu-b-lishing.  Do-stupn[]e z:
  []
 
 ) [2] (./proj4.aux) ) 
 Here is how much of TeX's memory you used:
- 2575 strings out of 478277
- 41689 string characters out of 5853039
- 366573 words of memory out of 5000000
- 20811 multiletter control sequences out of 15000+600000
- 477706 words of font info for 48 fonts, out of 8000000 for 9000
+ 2558 strings out of 478276
+ 41302 string characters out of 5853013
+ 364387 words of memory out of 5000000
+ 20782 multiletter control sequences out of 15000+600000
+ 488573 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,802b,188s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,5n,62p,250b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on proj4.pdf (3 pages, 63069 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on proj4.dvi (3 pages, 8604 bytes).
