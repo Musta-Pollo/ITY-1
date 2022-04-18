@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.24)  18 APR 2022 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.24)  18 APR 2022 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -137,36 +137,56 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 
-Underfull \hbox (badness 3354) in paragraph at lines 9--13
+Underfull \hbox (badness 6125) in paragraph at lines 9--13
+[]\OT1/ptm/m/sc/10.95 Future Of Life\OT1/ptm/m/n/10.95 .  Be-ne-fits and risks of ar-ti-fi-cial in-tel-li-gence, Nov 2021.  Do-stupn[]e z:
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 15--19
 []\OT1/ptm/m/sc/10.95 Maddox\OT1/ptm/m/n/10.95 , T.  Re-search: 34 per-cent afraid of Ar-ti-fi-cial In-tel-li-gence, Sep 2015.  Do-stupn[]e z:
  []
 
 
-Overfull \hbox (24.37782pt too wide) in paragraph at lines 9--13
+Overfull \hbox (24.37782pt too wide) in paragraph at lines 15--19
 []$\OT1/ptm/m/n/10.95 . 
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 16--23
+Underfull \hbox (badness 6477) in paragraph at lines 22--29
 []\OT1/ptm/m/sc/10.95 McDermott\OT1/ptm/m/n/10.95 , J. et al. (Ed.).  \OT1/ptm/m/it/10.95 20th Eu-ro-pean Con-fe-rence on Ge-ne-tic Pro-gra-m-ming\OT1/ptm/m/n/10.95 , 10196
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 16--23
+Underfull \hbox (badness 3989) in paragraph at lines 22--29
 \OT1/ptm/m/n/10.95 / \OT1/ptm/m/it/10.95 Lecture No-tes in Com-pu-ter Science\OT1/ptm/m/n/10.95 , 2017. Sprin-ger In-ter-nati-o-nal Pu-b-lishing.  Do-stupn[]e z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+[]\OT1/ptm/m/n/10.95 What Ar-ti-fi-cial In-tel-li-gence.  What is ar-ti-fi-cial in-tel-li-gence and how
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+\OT1/ptm/m/n/10.95 is it used?: News: Eu-ro-pean par-li-a-ment, Mar 2021.  Do-stupn[]e z:
+ []
+
+
+Overfull \hbox (254.32533pt too wide) in paragraph at lines 65--70
+[]$\OT1/ptm/m/n/10.95 . 
  []
 
 ) [2] (./proj4.aux) ) 
 Here is how much of TeX's memory you used:
- 2558 strings out of 478276
- 41302 string characters out of 5853013
- 364387 words of memory out of 5000000
- 20782 multiletter control sequences out of 15000+600000
+ 2564 strings out of 478276
+ 41461 string characters out of 5853013
+ 364464 words of memory out of 5000000
+ 20788 multiletter control sequences out of 15000+600000
  488573 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,250b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,5n,62p,250b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proj4.pdf (3 pages, 63069 bytes).
+Output written on proj4.pdf (3 pages, 64874 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
