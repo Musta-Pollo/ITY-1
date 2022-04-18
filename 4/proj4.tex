@@ -1,12 +1,11 @@
-\documentclass[11pt,a4paper]{article}
-%packages
+\documentclass[a4paper, 11pt]{article}
+
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[left=2cm,text={17cm, 24cm},top=3cm]{geometry}
-\providecommand{\uv}[1]{\quotedblbase #1\textquotedblleft}
-\usepackage{natbib} 
-%settings
-\renewcommand*\rmdefault{ptm}
+\usepackage[left=2cm, top=3cm, text={17cm, 24cm}]{geometry}
+\usepackage{times}
+\usepackage[unicode]{hyperref}
+\hypersetup{colorlinks = true, hypertexnames = false}
 
 %document
 \begin{document}
@@ -26,13 +25,13 @@ Citace
 {\Large 13. dubna 2016 \hfill
 Jan Koscielniak}
 \end{titlepage}
-\section*{O Typografii}
+\section{O Typografii}
 
 
 Mnohé techonologie využívaly principů umělé inteligence již před více než půl stoletím.
 První práce na tomto poli vyšla roku 1943.
 Jejími autory byli Warren McCulloch a Walter Pitts~\cite{NegnevitskyMichael2002Ai}. 
-S nárůstem výkonu výpočetní techniky však došlo v posledních letech k obroskému rozmachu v tomto oboru~\citep{What_is_artificial_intelligence}.
+S nárůstem výkonu výpočetní techniky však došlo v posledních letech k obroskému rozmachu v tomto oboru~\cite{What_is_artificial_intelligence}.
 Na umělou intelgenci se dá nahlížet z mnoha pohledů.
 S pomocí biologie, matematiky, logiky a různých dalších věd usiluje o napadobení kongnitivního procesu~\cite{RagasLudek2017Ui}. 
 Na podobné bazí pracuje několik dalších přístupů, jako například genetické programování, které z poznatků umělé inteligence čerpají~\cite{FITPUB11427}.
@@ -55,8 +54,8 @@ Na tuto otázku se snaží odpovědět Max Tegmark, jenž se touto problematinko
 
 
 \newpage
+\bibliographystyle{czechiso}
 \renewcommand{\refname}{Literatura}
-\bibliographystyle{csplainnat}
-\bibliography{literatura}
+\bibliography{proj4}
 
 \end{document}

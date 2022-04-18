@@ -1,77 +1,60 @@
 \begin{thebibliography}{10}
-\providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{Dostupné z: }
 \expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\url{#2}}
 
-\bibitem[{Future Of Life}(2021)]{Future}
-{\sc {Future Of Life}}.
-\newblock Benefits and risks of artificial intelligence, Nov 2021.
-\newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/}>}$.
+\bibitem{Future}
+{Future Of Life}: Benefits and risks of artificial intelligence. Nov 2021.
+\urlprefix\url{https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/}
 
-\bibitem[Maddox(2015)]{Maddox_2015}
-{\sc Maddox}, T.
-\newblock Research: 34 percent afraid of Artificial Intelligence, Sep 2015.
-\newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://www.zdnet.com/article/research-34-precent-afraid-of-artificial-intelligence/}>}$.
+\bibitem{Maddox_2015}
+Maddox, T.: Research: 34 percent afraid of Artificial Intelligence. Sep 2015.
+\urlprefix\url{https://www.zdnet.com/article/research-34-precent-afraid-of-artificial-intelligence/}
 
-\bibitem[McDermott et~al.(2017)McDermott, Castelli, Sekanina, Haasdijk,,
-  Garc\'{i}a-S\'{a}nchez]{FITPUB11427}
-{\sc McDermott}, J. et~al. (Ed.).
-\newblock \emph{20th European Conference on Genetic Programming},  10196 /
-  \emph{Lecture Notes in Computer Science}, 2017. Springer International
-  Publishing.
-\newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://www.fit.vut.cz/research/publication/11427}>}$.
-\newblock ISBN 978-3-319-55696-3.
+\bibitem{FITPUB11427}
+McDermott, J.; Castelli, M.; Sekanina, L.; aj. (editoři):
+  {\selectlanguage{english}\emph{20th European Conference on Genetic
+  Programming}}, \emph{Lecture Notes in Computer Science}, ročník 10196,
+  Springer International Publishing, 2017, ISBN 978-3-319-55696-3.
+\urlprefix\url{https://www.fit.vut.cz/research/publication/11427}
 
-\bibitem[Negnevitsky(2002)]{NegnevitskyMichael2002Ai}
-{\sc Negnevitsky}, M.
-\newblock \emph{Artificial intelligence}.
-\newblock New York~: Addison-Wesley, vyd. 1. edition, 2002.
-\newblock ISBN 0-201-71159-1.
+\bibitem{NegnevitskyMichael2002Ai}
+Negnevitsky, M.: {\selectlanguage{eng}\emph{Artificial intelligence}}. New
+  York: Addison-Wesley, vyd. 1. vydání, 2002, ISBN 0-201-71159-1.
 
-\bibitem[Pah et~al.(2022)Pah, Schwartz, Sanga, Alexander, Hammond,,
-  Amaral]{PahAdamR2022TPoA}
-{\sc Pah}, A.~R. et~al.
-\newblock The Promise of AI in an Open Justice System.
-\newblock \emph{The AI magazine}. 2022, 43, 1, s.~69--74.
-\newblock ISSN 0738-4602.
+\bibitem{PahAdamR2022TPoA}
+Pah, A.~R.; Schwartz, D.~L.; Sanga, S.; aj.: {\selectlanguage{eng}The Promise
+  of AI in an Open Justice System}. \emph{The AI magazine}, ročník~43, č.~1,
+  2022: s. 69--74, ISSN 0738-4602.
 
-\bibitem[Ragas(2017)]{RagasLudek2017Ui}
-{\sc Ragas}, L.
-\newblock Umělá inteligence.
-\newblock Bakalářská práce, Vysoké učení technické v Brně. Fakulta
-  elektrotechniky a komunikačních technologií, 2017.
+\bibitem{RagasLudek2017Ui}
+Ragas, L.: {\selectlanguage{eng}\emph{Umělá inteligence}}. Bakalářská
+  práce, Vysoké učení technické v Brně. Fakulta elektrotechniky a
+  komunikačních technologií, 2017.
 
-\bibitem[Robson et~al.(2022)Robson, Kelsey, Goel, Nasir, Robson, Garn, Lisle,
-  Kitchens, Rugaber,, Ray]{RobsonRobby2022IlAc}
-{\sc Robson}, R. et~al.
-\newblock Intelligent links: AI‐supported connections between employers and
-  colleges.
-\newblock \emph{The AI magazine}. 2022, 43, 1, s.~75--82.
-\newblock ISSN 0738-4602.
+\bibitem{RobsonRobby2022IlAc}
+Robson, R.; Kelsey, E.; Goel, A.; aj.: {\selectlanguage{eng}Intelligent links:
+  AI‐supported connections between employers and colleges}. \emph{The AI
+  magazine}, ročník~43, č.~1, 2022: s. 75--82, ISSN 0738-4602.
 
-\bibitem[Tegmark(2020)]{TegmarkMax2020Z3:c}
-{\sc Tegmark}, M.
-\newblock \emph{Život 3.0 : člověk v éře umělé inteligence}.
-\newblock Zip (Argo : Dokořán). Praha~: Argo, Dokořán, první vydání v
-  českém jazyce edition, 2020.
-\newblock ISBN 978-80-7363-948-8.
+\bibitem{TegmarkMax2020Z3:c}
+Tegmark, M.: {\selectlanguage{cze}\emph{Život 3.0 : člověk v éře umělé
+  inteligence}}. Zip (Argo : Dokořán), Praha: Argo, Dokořán, první
+  vydání v českém jazyce vydání, 2020, ISBN 978-80-7363-948-8.
 
-\bibitem[{What Artificial Intelligence}()]{What_is_artificial_intelligence}
-{What Artificial Intelligence}.
-\newblock What is artificial intelligence and how is it used?: News: European
-  parliament, Mar 2021.
-\newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://www.europarl.europa.eu/news/en/headlines/society/20200827STO85804/what-is-artificial-intelligence-and-how-is-it-used}>}$.
+\bibitem{What_is_artificial_intelligence}
+What is artificial intelligence and how is it used?: News: European parliament.
+  Mar 2021.
+\urlprefix\url{https://www.europarl.europa.eu/news/en/headlines/society/20200827STO85804/what-is-artificial-intelligence-and-how-is-it-used}
 
-\bibitem[Černohub(2010)]{CernohubJan2010Uipd}
-{\sc Černohub}, J.
-\newblock Umělá inteligence pro deskovou hru Carcassonne.
-\newblock Bakalářská práce, Vysoké učení technické v Brně. Fakulta
-  informačních technologií, 2010.
+\bibitem{CernohubJan2010Uipd}
+Černohub, J.: {\selectlanguage{cze}\emph{Umělá inteligence pro deskovou hru
+  Carcassonne}}. Bakalářská práce, Vysoké učení technické v Brně.
+  Fakulta informačních technologií, 2010.
 
 \end{thebibliography}

@@ -1,46 +1,47 @@
 This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: proj4.aux
-The style file: csplainnat.bst
-Database file #1: literatura.bib
+The style file: czechiso.bst
+Database file #1: proj4.bib
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
 You've used 10 entries,
-            2932 wiz_defined-function locations,
-            703 strings with 7341 characters,
-and the built_in function-call counts, 3906 in all, are:
-= -- 366
-> -- 202
-< -- 7
-+ -- 70
-- -- 60
-* -- 303
-:= -- 625
-add.period$ -- 39
+            3151 wiz_defined-function locations,
+            731 strings with 7637 characters,
+and the built_in function-call counts, 4245 in all, are:
+= -- 288
+> -- 132
+< -- 11
++ -- 65
+- -- 36
+* -- 260
+:= -- 486
+add.period$ -- 19
 call.type$ -- 10
-change.case$ -- 40
-chr.to.int$ -- 10
-cite$ -- 20
-duplicate$ -- 187
-empty$ -- 317
-format.name$ -- 81
-if$ -- 813
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 6
-newline$ -- 63
-num.names$ -- 43
-pop$ -- 117
+change.case$ -- 42
+chr.to.int$ -- 12
+cite$ -- 10
+duplicate$ -- 415
+empty$ -- 410
+format.name$ -- 39
+if$ -- 912
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 100
+newline$ -- 44
+num.names$ -- 19
+pop$ -- 204
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 36
 quote$ -- 0
-skip$ -- 133
+skip$ -- 159
 stack$ -- 0
-substring$ -- 58
-swap$ -- 22
-text.length$ -- 1
+substring$ -- 105
+swap$ -- 238
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 98
+type$ -- 35
 warning$ -- 0
-while$ -- 28
-width$ -- 0
-write$ -- 146
+while$ -- 26
+width$ -- 12
+write$ -- 102
